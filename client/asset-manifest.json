@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.77decaf3.css",
-    "main.js": "/static/js/main.e1ff5056.js",
+    "main.css": "/static/css/main.b3ec1bd6.css",
+    "main.js": "/static/js/main.93668b48.js",
     "static/media/FuturaPTBold.otf": "/static/media/FuturaPTBold.b22b8109a56a2445c366.otf",
     "static/media/FuturaPTDemi.otf": "/static/media/FuturaPTDemi.2862dbd87fd60c04be93.otf",
     "static/media/FuturaPTMedium.otf": "/static/media/FuturaPTMedium.7af6976ce738bec1704e.otf",
@@ -10,11 +10,11 @@
     "static/media/Copperplate-Gothic-Std-30-BC.ttf": "/static/media/Copperplate-Gothic-Std-30-BC.5ddb73d102736455adde.ttf",
     "static/media/Copperplate-Gothic-Std-29-BC.ttf": "/static/media/Copperplate-Gothic-Std-29-BC.3123841ae7d0dcd5ec87.ttf",
     "index.html": "/index.html",
-    "main.77decaf3.css.map": "/static/css/main.77decaf3.css.map",
-    "main.e1ff5056.js.map": "/static/js/main.e1ff5056.js.map"
+    "main.b3ec1bd6.css.map": "/static/css/main.b3ec1bd6.css.map",
+    "main.93668b48.js.map": "/static/js/main.93668b48.js.map"
   },
   "entrypoints": [
-    "static/css/main.77decaf3.css",
-    "static/js/main.e1ff5056.js"
+    "static/css/main.b3ec1bd6.css",
+    "static/js/main.93668b48.js"
   ]
 }
