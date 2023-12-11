@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.61ae6882.css",
-    "main.js": "/static/js/main.66afae9b.js",
+    "main.js": "/static/js/main.73b0c439.js",
     "static/media/FuturaPTBold.otf": "/static/media/FuturaPTBold.b22b8109a56a2445c366.otf",
     "static/media/FuturaPTDemi.otf": "/static/media/FuturaPTDemi.2862dbd87fd60c04be93.otf",
     "static/media/FuturaPTMedium.otf": "/static/media/FuturaPTMedium.7af6976ce738bec1704e.otf",
@@ -11,10 +11,10 @@
     "static/media/Copperplate-Gothic-Std-29-BC.ttf": "/static/media/Copperplate-Gothic-Std-29-BC.3123841ae7d0dcd5ec87.ttf",
     "index.html": "/index.html",
     "main.61ae6882.css.map": "/static/css/main.61ae6882.css.map",
-    "main.66afae9b.js.map": "/static/js/main.66afae9b.js.map"
+    "main.73b0c439.js.map": "/static/js/main.73b0c439.js.map"
   },
   "entrypoints": [
     "static/css/main.61ae6882.css",
-    "static/js/main.66afae9b.js"
+    "static/js/main.73b0c439.js"
   ]
 }
